@@ -4,13 +4,6 @@ In-depth documentation on this SDK is available at [uniswap.org](https://uniswap
 
 ## Running tests
 
-
-Move into the sushiswap-sdk working directory
-
-```sh
-cd sushiswap-sdk/
-```
-
 Install dependencies
 
 ```sh
