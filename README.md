@@ -33,3 +33,5 @@ Time:        5.091s
 Ran all test suites.
 ✨  Done in 6.61s.
 ```
+
+Copy and paste dist file in the node modules of defi.
